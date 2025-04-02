@@ -1,4 +1,4 @@
-const firebaseURL = 'https://your-project-https://console.firebase.google.com/project/kafeform-e40a0/database/kafeform-e40a0-default-rtdb/data/~2F.firebaseio.com'; // Replace with your Firebase project URL
+const firebaseURL = 'https://kafeform-e40a0-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase project URL
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
