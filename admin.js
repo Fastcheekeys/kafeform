@@ -1,4 +1,4 @@
-const firebaseURL = 'https://kafeform-e40a0-default-rtdb.europe-west1.firebasedatabase.app'; // Replace with your Firebase URL
+const firebaseURL = 'https://kafeform-e40a0-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase URL
 
 const validUsername = "admin";
 const validPassword = "admin123";
